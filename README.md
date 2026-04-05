@@ -1,16 +1,13 @@
-Building at the intersection of AI, earth science, and space resources.
+# Waran GB
 
-Focus
-ISRU-oriented analysis
-asteroid mineral detection
-lunar water indicators
-planetary data workflows
-AI for scientific and geospatial analysis
-Current direction
+AI + earth science for space resources, ISRU, lunar water, asteroid minerals, and planetary data.
 
-I am building public work around space resource intelligence through projects, technical documentation, and research-driven experiments.
+## Building
+- Space resource intelligence
+- Planetary data analysis
+- Technical documentation
+- BUMI Aerospace
 
-<!---
-icecappman/icecappman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Links
+- Hashnode: [@icecappman](https://hashnode.com/@icecappman)
+- LinkedIn: [icecappman](https://www.linkedin.com/in/icecappman/)
