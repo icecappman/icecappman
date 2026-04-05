@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @icecappman
-- 👀 I’m interested in dev
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me hello@icecappman.dev
+Building at the intersection of AI, earth science, and space resources.
+
+Focus
+ISRU-oriented analysis
+asteroid mineral detection
+lunar water indicators
+planetary data workflows
+AI for scientific and geospatial analysis
+Current direction
+
+I am building public work around space resource intelligence through projects, technical documentation, and research-driven experiments.
 
 <!---
 icecappman/icecappman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
